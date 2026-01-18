@@ -27,7 +27,7 @@ import menuComponents.SoundEffect;
 import skyfall.SkyfallUI;
 
 /*
- * Name: Sanat Kanwal
+ * Name: Cherith Boya
  * Date: 2024-01-19
  * Description: The user of this program will be able to wager on the Skyfall game.Input requirements for the user 
  * 				include a goal score (the better the score, the more money you can get) and a bet (the amount of 
