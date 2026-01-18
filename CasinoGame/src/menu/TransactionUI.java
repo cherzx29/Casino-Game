@@ -28,7 +28,7 @@ import menuComponents.Transaction;
 import menuComponents.TransactionList;
 
 /**
- * Name: Sanat Kanwal
+ * Name: Cherith Boya
  * Date:2024-01-19
  * Description: In this class, this is where the user can see all of their transactions. They can see how much money they started with 
  * 				(by looking at top) and how much has been gained or lost as they played the games. The transaction is formatted in a way
